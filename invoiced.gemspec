@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Jared King"]
   s.email       = 'support@invoiced.com'
   s.files       = ["lib/invoiced.rb"]
-  s.homepage    = 'https://invoiced.com/docs/dev'
+  s.homepage    = 'https://github.com/Invoiced/invoiced-ruby'
   s.required_ruby_version = '>= 2.3.0'
 
   s.add_dependency('rest-client', '~> 2.1.0')
